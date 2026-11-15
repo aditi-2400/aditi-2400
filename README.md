@@ -23,23 +23,7 @@ Outside of code you'll find me cooking, reading, or out exploring nature.
 
 ## 🛠️ Experience
 
-**Software Engineer, Easley-Dunn Productions** · Remote · Jul 2026 to present
-- Contributing to Cerberus, a Node.js/Express and PostgreSQL access management platform across 8+ services, being deployed to production for 150+ users.
-- Owned the Discord API integration for invites, offboarding and user ID resolution, cutting onboarding from about 2 days to 5 minutes.
-- Built the login system with a team of four: email/password auth with bcrypt, 7-day JWT sessions and four-tier role-based access control.
-- Led containerization with multi-stage Dockerfiles and a 3-service Docker Compose stack, and designed the GitHub Actions to GHCR image pipeline.
-
-**Research Assistant, USC Marshall School of Business** · Los Angeles · Mar to May 2025
-- Built Selenium and BeautifulSoup scrapers to extract 100+ shareholder letters.
-- Built pdfplumber pipelines that turn raw PDFs into clean, NLP-ready datasets.
-
-**Platform Engineer II, Mastercard** · Pune, India · May 2021 to Jul 2024
-- Automated database operations (backups, patching, config updates) as code with Bash, Python, Bitbucket and Chef, cutting manual effort by 50% across 100+ nodes.
-- Monitored and debugged production PostgreSQL, Oracle and Redis, resolving locking, connection limit and storage failures.
-- Took part in on-call rotations, diagnosing filesystem issues, failed backups and alerting problems.
-- Built log analysis and alert reduction tooling in Python and SQL, reducing recurring alerts by 40%.
-- Built a SQL-backed Tableau dashboard for capacity planning and worked with 10+ engineering teams on database integrations.
-- Started as a Data Engineer Intern, building ETL pipelines and Domo dashboards for real-time ticketing performance used by 5+ teams.
+I'm a Software Engineer at Easley-Dunn Productions, where I work on Cerberus, a Node.js and PostgreSQL access management platform heading to production for 150+ users. I built the Discord integration that cut onboarding from about 2 days to 5 minutes, helped build the login system, and set up the Docker and GitHub Actions deployment pipeline. Before that I spent three years as a Platform Engineer II at Mastercard, where I automated database operations across 100+ nodes with Bash, Python and Chef (50% less manual effort), handled on-call for PostgreSQL, Oracle and Redis, and built tooling that cut recurring alerts by 40%.
 
 ## 🚀 Projects
 
