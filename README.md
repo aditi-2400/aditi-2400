@@ -17,7 +17,7 @@
 
 I enjoy building systems that solve real problems, especially where machine learning meets infrastructure. I like working through ambiguity and turning complex ideas into something reliable and usable.
 
-I spent three years as a Platform Engineer at Mastercard running PostgreSQL, Oracle and Redis, then finished my master's at USC in May 2026. Lately I've been writing Go and Python, building AI agent tooling, and working on a production access management platform with a small volunteer team.
+I spent two years as a Platform Engineer at Mastercard running PostgreSQL, Oracle and Redis, then finished my master's at USC in May 2026. Lately I've been writing Go and Python, building AI agent tooling, and working on a production access management platform with a small volunteer team.
 
 Outside of code you'll find me cooking, reading, or out exploring nature.
 
